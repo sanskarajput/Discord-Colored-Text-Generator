@@ -1,6 +1,7 @@
 <div align="center">
 
-# **Discord Colored Text Generator** [:arrow_upper_right:](https://discord-colored-text-generator-rho.vercel.app/)
+# **Discord Colored Text Generator** 
+<!--[:arrow_upper_right:](https://discord-colored-text-generator-rho.vercel.app/)-->
 </div>
 
 <div align="">
